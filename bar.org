@@ -11,13 +11,12 @@
 #+RFC_XML_VERSION: 3
 #+RFC_CONSENSUS: true
 
-#+TITLE: The full title of the draft
+#+TITLE: The Bar
 #+RFC_SHORT_TITLE: Short Title
-#+AUTHOR: My Name
-#+EMAIL: abc@gmail.com
-#+AFFILIATION: The Company LLC
-#+RFC_SHORT_ORG: Company
-#+RFC_ADD_AUTHOR: ("Second Author" "second@foo.com" ("Company" "The Company LLC"))
+#+AUTHOR: Antony Antony
+#+EMAIL: antony@phenome.org
+#+AFFILIATION: Phenome.og
+#+RFC_SHORT_ORG: Phenome
 #+RFC_AREA: SEC
 #+RFC_WORKGROUP: My Working Group
 
