@@ -2,13 +2,13 @@
 
 
 
-My Working Group                                                 M. Name
-Internet-Draft                                                 S. Author
-Intended status: Standards Track                                 Company
-Expires: 22 June 2025                                   19 December 2024
+My Working Group                                               A. Antony
+Internet-Draft                                                   Phenome
+Intended status: Standards Track                        19 December 2024
+Expires: 22 June 2025
 
 
-                      The full title of the draft
+                                The Bar
                     draft-myname-wg-org-template-00
 
 Abstract
@@ -53,7 +53,7 @@ Copyright Notice
 
 
 
-Name & Author             Expires 22 June 2025                  [Page 1]
+Antony                    Expires 22 June 2025                  [Page 1]
 
 Internet-Draft                 Short Title                 December 2024
 
@@ -66,7 +66,7 @@ Table of Contents
    3.  Normative References  . . . . . . . . . . . . . . . . . . . .   2
    4.  Informative References  . . . . . . . . . . . . . . . . . . .   2
    Appendix A.  Additional Stuff . . . . . . . . . . . . . . . . . .   2
-   Authors' Addresses  . . . . . . . . . . . . . . . . . . . . . . .   2
+   Author's Address  . . . . . . . . . . . . . . . . . . . . . . . .   2
 
 1.  Introduction
 
@@ -99,70 +99,14 @@ Appendix A.  Additional Stuff
 
    TBD
 
-Authors' Addresses
+Author's Address
 
-   My Name
-   The Company LLC
-   Email: abc@gmail.com
-
-
-
-
-
-Name & Author             Expires 22 June 2025                  [Page 2]
-
-Internet-Draft                 Short Title                 December 2024
-
-
-   Second Author
-   The Company LLC
-   Email: second@foo.com
+   Antony Antony
+   Phenome.og
+   Email: antony@phenome.org
 
 
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Name & Author             Expires 22 June 2025                  [Page 3]
+Antony                    Expires 22 June 2025                  [Page 2]
