@@ -4,7 +4,7 @@
 #+OPTIONS: prop:nil title:t toc:t \n:nil ::t |:t ^:{} -:t *:t ':nil
 
 #+RFC_CATEGORY: std
-#+RFC_NAME: draft-antony-wg-bar-template
+#+RFC_NAME: draft-antony-wg-bar
 #+RFC_VERSION: 00
 #+RFC_IPR: trust200902
 #+RFC_STREAM: IETF
