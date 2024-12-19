@@ -10,4 +10,4 @@ IETF Internet-Draft document,
 # Edit the next line change to your user name, repository name, and draft name.
 * Laest Copy
 The latest version of the draft in HTML format is at:
-- [[https://AntonyAntony.github.io/internet-draft-org-template/draft-bar-latest.html][Editor's Copy]]
+- [[https://AntonyAntony.github.io/id-bar/draft-antony-wg-bar-latest.html][Editor's Copy]]
