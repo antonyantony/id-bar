@@ -1,0 +1,22 @@
+#+TITLE: Internet-Draft Org Template Repository
+
+[[https://github.com/antonyantony/internet-draft-org-template/generate][Click here to create a new repository using the template]]
+
+Use this repository as a template if you want to start working on
+IETF Internet-Draft document,
+[[https://authors.ietf.org/en/content-guidelines-overview][IETF Author Guidelines]].
+
+Make sure to check "Include all branches", or you will need to enable
+GitHub Pages manually.
+
+Rename the file and [[../../edit/main/mydraft.org][edit the TITLE, and Author in the file]]
+
+After renmaing edit the [[../../edit/main/Makefile][Makefile replace mydraft.org]] with new filename from above.
+
+Rename repository name in [[../../edit/main/README.org][ edit mydraft.org]] s/AntonyAntony/USERNAME/, and edit
+"draft-myname-wg-org" from TITLE. And remove second line to including this line .
+
+# Edit the next line change to your user name, repository name, and draft name.
+* Laest Copy
+The latest version of the draft in HTML format is at:
+- [[https://AntonyAntony.github.io/internet-draft-org-template/draft-myname-wg-org-template-latest.html][Editor's Copy]]
